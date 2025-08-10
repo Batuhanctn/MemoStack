@@ -1,4 +1,4 @@
-# MemoNot ve Kullanıcı Yönetimi Projesi
+# MemoStack ve Kullanıcı Yönetimi Projesi
 
 Bu proje, kullanıcıların kaydolup giriş yapabildiği, profil bilgilerini yönetebildiği ve kişisel notlar oluşturabildiği Python tabanlı bir web uygulamasıdır. Tüm veriler Google Firebase üzerinde gerçek zamanlı olarak saklanmaktadır.
 
